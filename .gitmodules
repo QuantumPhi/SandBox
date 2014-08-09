@@ -1,0 +1,3 @@
+[submodule "LongDouble"]
+	path = LongDouble
+	url = https://github.com/QuantumPhi/LongDouble.git
