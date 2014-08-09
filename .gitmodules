@@ -1,3 +1,6 @@
 [submodule "LongDouble"]
 	path = LongDouble
 	url = git://github.com/QuantumPhi/LongDouble.git
+[submodule "KalmanTest"]
+	path = KalmanTest
+	url = https://github.com/QuantumPhi/KalmanTest.git
